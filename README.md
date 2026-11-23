@@ -1,6 +1,6 @@
 # ZoPreview (Zotero 10 Compatible)
 
-This is a modified version of the Zotero Preview plugin, updated to work seamlessly with **Zotero 10**.
+This is a modified version of the Zotero Preview plugin, updated to work seamlessly with **Zotero**.
 
 > ⚠️ This is **not the original plugin**. It is an adaptation to maintain compatibility with newer Zotero versions.
 
